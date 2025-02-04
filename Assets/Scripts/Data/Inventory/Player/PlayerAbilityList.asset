@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d21f89938ce30fd4787f5347f93491d9, type: 3}
+  m_Name: PlayerAbilityList
+  m_EditorClassIdentifier: 
+  inventoryItems:
+  - count: 1
+    item: {fileID: 11400000, guid: 7aa332e5b471e7746a928211fe654189, type: 2}
+    itemState: []
+    moveListState:
+    - count: 1
+      item: {fileID: 11400000, guid: 5cba0b6cfd7b3314885e155bebedc14c, type: 2}
+      moveState: []
+    - count: 1
+      item: {fileID: 11400000, guid: 5e85ede2d4deaf94fa91491c30a08f5d, type: 2}
+      moveState: []
+    - count: 1
+      item: {fileID: 11400000, guid: 5e85ede2d4deaf94fa91491c30a08f5d, type: 2}
+      moveState: []
+    level: 3
+  - count: 1
+    item: {fileID: 11400000, guid: aadc5e5e1908e87468ebdc4a909520b0, type: 2}
+    itemState: []
+    moveListState: []
+    level: 1
+  - count: 1
+    item: {fileID: 11400000, guid: fa3f153fa7b9894429ceb3090965cd69, type: 2}
+    itemState: []
+    moveListState: []
+    level: 3
+  <size>k__BackingField: 3
+  <weight>k__BackingField: 0

@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8595e51d062971b4bad4828023c09629, type: 3}
+  m_Name: Magnetism Ability
+  m_EditorClassIdentifier: 
+  <isStackable>k__BackingField: 0
+  <maxStackSize>k__BackingField: 1
+  <itemName>k__BackingField: Magnetism
+  <description>k__BackingField: Gives the power of magnetism
+  <image>k__BackingField: {fileID: 791912136, guid: 1a3817dc0fa95394aafdcd324a9754fe, type: 3}
+  <weight>k__BackingField: 0
+  <value>k__BackingField: 0
+  <parameterList>k__BackingField: []
+  moveList:
+  - count: 0
+    item: {fileID: 11400000, guid: d2ae21bc302b96044b710aae9d4216e3, type: 2}
+    moveState: []
+  - count: 0
+    item: {fileID: 11400000, guid: d2ae21bc302b96044b710aae9d4216e3, type: 2}
+    moveState: []
+  - count: 0
+    item: {fileID: 11400000, guid: d2ae21bc302b96044b710aae9d4216e3, type: 2}
+    moveState: []
+  type: 0
+  <actionSFX>k__BackingField: {fileID: 0}
+  <moveList>k__BackingField: []

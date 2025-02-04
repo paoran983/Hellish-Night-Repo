@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a7bda99d174080442a9c910d4e4265ae, type: 3}
+  m_Name: Thunder 1
+  m_EditorClassIdentifier: 
+  <isStackable>k__BackingField: 0
+  <minEffectiveRange>k__BackingField: 0
+  <maxEffectiveRange>k__BackingField: 5
+  <range>k__BackingField: 7
+  <damage>k__BackingField: 15
+  <accuracy>k__BackingField: 65
+  <spreadRange>k__BackingField: 1
+  <mpCost>k__BackingField: 25
+  <moveCost>k__BackingField: 1
+  <itemName>k__BackingField: Thunder 1
+  <description>k__BackingField: it is shockingly powerful
+  <image>k__BackingField: {fileID: -713503831, guid: 1ab481664181c2641b3bf4b2948f7810, type: 3}
+  <parameterList>k__BackingField: []
+  modifierData:
+  - statModifier: {fileID: 11400000, guid: d35e32727c4681349bbfef85834ed009, type: 2}
+    value: 15
+  - statModifier: {fileID: 11400000, guid: 2aecf1d5524d8804fb34a241ff44102f, type: 2}
+    value: 15
+  rangeType: 0
+  <actionSFX>k__BackingField: {fileID: 0}

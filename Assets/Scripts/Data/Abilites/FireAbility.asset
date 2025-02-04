@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8595e51d062971b4bad4828023c09629, type: 3}
+  m_Name: FireAbility
+  m_EditorClassIdentifier: 
+  <isStackable>k__BackingField: 0
+  <maxStackSize>k__BackingField: 1
+  <itemName>k__BackingField: Fire
+  <description>k__BackingField: Gives the power of fire
+  <image>k__BackingField: {fileID: -1250273922, guid: bb4d8032a836f6e4292e55253da35c51, type: 3}
+  <weight>k__BackingField: 0
+  <value>k__BackingField: 0
+  <parameterList>k__BackingField: []
+  moveList:
+  - count: 0
+    item: {fileID: 11400000, guid: 5cba0b6cfd7b3314885e155bebedc14c, type: 2}
+    moveState: []
+  - count: 0
+    item: {fileID: 11400000, guid: 5e85ede2d4deaf94fa91491c30a08f5d, type: 2}
+    moveState: []
+  - count: 0
+    item: {fileID: 11400000, guid: d5e0ce1cd38b60048aefa0093044967c, type: 2}
+    moveState: []
+  type: 4
+  <actionSFX>k__BackingField: {fileID: 0}
+  <moveList>k__BackingField: []

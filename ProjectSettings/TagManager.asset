@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Healing
+  - Damaging
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Unit
+  - Water
+  - UI
+  - Object
+  - Building
+  - Floor
+  - 1st floor
+  - 2nd floor
+  - 3rd floor
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 209328629
+    locked: 0
+  - name: Level 1
+    uniqueID: 2821581255
+    locked: 0
+  - name: Level 2
+    uniqueID: 905905749
+    locked: 0
+  - name: Level 3
+    uniqueID: 76751873
+    locked: 0
+  - name: Level 4
+    uniqueID: 3934496553
+    locked: 0
+  - name: grid
+    uniqueID: 3990874937
+    locked: 0
+  - name: Foreground
+    uniqueID: 533976863
+    locked: 0
+  - name: UI
+    uniqueID: 3008752837
+    locked: 0
+  - name: unit UI
+    uniqueID: 1589040673
+    locked: 0
+  - name: HUD
+    uniqueID: 4258081057
+    locked: 0

@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fdbfd1b23786d0e429cb62a158e56175, type: 3}
+  m_Name: Armour
+  m_EditorClassIdentifier: 
+  <isStackable>k__BackingField: 0
+  <maxStackSize>k__BackingField: 1
+  <itemName>k__BackingField: Armour
+  <description>k__BackingField: ptrotects
+  <image>k__BackingField: {fileID: 21300000, guid: 5d03cdee72a0b7f4dbd0a4c70da5b361, type: 3}
+  <weight>k__BackingField: 3
+  <value>k__BackingField: 4
+  <parameterList>k__BackingField: []
+  moveList: []
+  type: 2
+  <actionSFX>k__BackingField: {fileID: 0}
+  <moveList>k__BackingField: []
+  defense: 0

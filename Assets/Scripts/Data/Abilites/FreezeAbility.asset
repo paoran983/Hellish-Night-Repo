@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8595e51d062971b4bad4828023c09629, type: 3}
+  m_Name: FreezeAbility
+  m_EditorClassIdentifier: 
+  <isStackable>k__BackingField: 0
+  <maxStackSize>k__BackingField: 1
+  <itemName>k__BackingField: Freeze
+  <description>k__BackingField: Gives the power of ice
+  <image>k__BackingField: {fileID: 21300000, guid: dc577f223a882514fb382c47f6ab19d6, type: 3}
+  <weight>k__BackingField: 0
+  <value>k__BackingField: 0
+  <parameterList>k__BackingField: []
+  moveList:
+  - count: 0
+    item: {fileID: 11400000, guid: f013bfadb2a7c4244b62a3ffb7e5cfb5, type: 2}
+    moveState: []
+  - count: 0
+    item: {fileID: 11400000, guid: 07e940db18420374c8dd09e1a1b42bd1, type: 2}
+    moveState: []
+  - count: 0
+    item: {fileID: 11400000, guid: f5c201f9b17cee743a6442f14bd0ba2d, type: 2}
+    moveState: []
+  type: 4
+  <actionSFX>k__BackingField: {fileID: 0}
+  <moveList>k__BackingField: []

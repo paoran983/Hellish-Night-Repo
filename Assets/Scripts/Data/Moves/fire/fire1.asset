@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a7bda99d174080442a9c910d4e4265ae, type: 3}
+  m_Name: fire1
+  m_EditorClassIdentifier: 
+  <isStackable>k__BackingField: 0
+  <multiHit>k__BackingField: 0
+  <hitObjects>k__BackingField: 0
+  <minEffectiveRange>k__BackingField: 0
+  <maxEffectiveRange>k__BackingField: 5
+  <range>k__BackingField: 8
+  <accuracy>k__BackingField: 60
+  <spreadRange>k__BackingField: 1
+  <mpCost>k__BackingField: 10
+  <moveCost>k__BackingField: 1
+  <itemName>k__BackingField: Fire
+  <description>k__BackingField: hits with fire
+  <image>k__BackingField: {fileID: -1753613842, guid: bb4d8032a836f6e4292e55253da35c51, type: 3}
+  <parameterList>k__BackingField: []
+  modifierData:
+  - statModifier: {fileID: 11400000, guid: d35e32727c4681349bbfef85834ed009, type: 2}
+    value: 20
+    isDone: 1
+  - statModifier: {fileID: 11400000, guid: 4dfadd69abf123246aa965dc839369f2, type: 2}
+    value: 100
+    isDone: 1
+  rangeType: 0
+  projectile: {fileID: 1177191244426938736, guid: 686917618a2695240afe4215b1bd225f, type: 3}
+  <actionSFX>k__BackingField: {fileID: 0}

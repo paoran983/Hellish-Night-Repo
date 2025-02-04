@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8595e51d062971b4bad4828023c09629, type: 3}
+  m_Name: LightningAbility
+  m_EditorClassIdentifier: 
+  <isStackable>k__BackingField: 0
+  <maxStackSize>k__BackingField: 1
+  <itemName>k__BackingField: lightning
+  <description>k__BackingField: Gives the power of lightning
+  <image>k__BackingField: {fileID: 21300000, guid: e4bcebcd7dee2b8499b98e4b67ebd84b, type: 3}
+  <weight>k__BackingField: 0
+  <value>k__BackingField: 0
+  <parameterList>k__BackingField: []
+  moveList:
+  - count: 0
+    item: {fileID: 11400000, guid: 1491383a98ebcfa45a8233d57f173166, type: 2}
+    moveState: []
+  - count: 0
+    item: {fileID: 11400000, guid: a4aa84d1907ea4e4cb9e9a425e0d8beb, type: 2}
+    moveState: []
+  - count: 0
+    item: {fileID: 11400000, guid: 95ee79fed4f33b1499be6cded116ebe6, type: 2}
+    moveState: []
+  type: 4
+  <actionSFX>k__BackingField: {fileID: 0}
+  <moveList>k__BackingField: []
